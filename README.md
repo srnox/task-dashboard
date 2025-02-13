@@ -2,6 +2,10 @@
 
 A modern, responsive task management dashboard with a clean and intuitive interface. Built with vanilla JavaScript using a component-based architecture.
 
+## Screenshot
+
+![Task Dashboard Screenshot](screenshot/result.png)
+
 ## Features
 
 - **Multiple Task Panels**
@@ -124,3 +128,7 @@ Supports all modern browsers including:
 3. Commit your changes: `git commit -m 'Add your feature'`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License.
